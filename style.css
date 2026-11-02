@@ -103,7 +103,6 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Phone and small screen styles */
 @media (max-width: 600px) {
   .container {
     padding: 1.25rem 1rem;
@@ -139,7 +138,6 @@ footer {
   }
 }
 
-/* Respect people who turn off animations */
 @media (prefers-reduced-motion: reduce) {
   #bg {
     display: none;
